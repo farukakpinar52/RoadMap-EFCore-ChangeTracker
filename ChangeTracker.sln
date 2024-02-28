@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeTrackerProperty", "ChangeTrackerProperty\ChangeTrackerProperty.csproj", "{E799FD7D-1336-4E2C-A586-2F1A2ADD50BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChangeTrackerProperty", "ChangeTrackerProperty\ChangeTrackerProperty.csproj", "{E799FD7D-1336-4E2C-A586-2F1A2ADD50BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityStates", "EntityStates\EntityStates.csproj", "{D641B681-73AF-4396-8CEA-5C5B67DD01B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityStates", "EntityStates\EntityStates.csproj", "{D641B681-73AF-4396-8CEA-5C5B67DD01B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AboutTracking", "AboutTracking\AboutTracking.csproj", "{1382D3DA-B16D-4646-B231-D1F3DFFF5437}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D641B681-73AF-4396-8CEA-5C5B67DD01B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D641B681-73AF-4396-8CEA-5C5B67DD01B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D641B681-73AF-4396-8CEA-5C5B67DD01B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1382D3DA-B16D-4646-B231-D1F3DFFF5437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1382D3DA-B16D-4646-B231-D1F3DFFF5437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1382D3DA-B16D-4646-B231-D1F3DFFF5437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1382D3DA-B16D-4646-B231-D1F3DFFF5437}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
